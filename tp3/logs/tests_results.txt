@@ -1,0 +1,24 @@
+testDijkstra (__main__.TestAlgo) ... ok
+testIndiceMinimum (__main__.TestAlgo) ... ok
+testNoeudMinimalNonVisitesDeNoeudA (__main__.TestAlgo) ... ok
+testNoeudMinimalNonVisitesDeNoeudB (__main__.TestAlgo) ... ok
+testNoeudsVoisinsA (__main__.TestAlgo) ... ok
+testNoeudsVoisinsB (__main__.TestAlgo) ... ok
+testnoeudMinimalNonVisites (__main__.TestAlgo) ... ok
+testCarteEnSommets (__main__.TestCarte) ... ok
+testDistance3D (__main__.TestCarte) ... ok
+testDistanceEuclidienne (__main__.TestCarte) ... ok
+testEstVoisinA (__main__.TestCarte) ... ok
+testEstVoisinB (__main__.TestCarte) ... ok
+testMatriceAdjacence (__main__.TestCarte) ... ok
+testChargeMatriceDeCarte (__main__.TestFichier) ... ok
+testLireCarte (__main__.TestFichier) ... ok
+testAfficheChemin (__main__.TestInterface) ... ok
+testGenereMatriceAleatoireA (__main__.TestInterface) ... ok
+testGenereMatriceAleatoireB (__main__.TestInterface) ... ok
+testSaisirMatrice (__main__.TestInterface) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.002s
+
+OK

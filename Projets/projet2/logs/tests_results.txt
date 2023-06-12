@@ -1,0 +1,24 @@
+test11_creerMolecule (__main__.TestMolecule) ... ok
+test12_moleculeSeTouche1 (__main__.TestMolecule) ... ok
+test12_moleculeSeTouche2 (__main__.TestMolecule) ... ok
+test12_moleculeSeTouche3 (__main__.TestMolecule) ... ok
+test12_moleculeSeTouche4 (__main__.TestMolecule) ... ok
+test12_moleculeSeTouche5 (__main__.TestMolecule) ... ok
+test13_deplacerMolecule (__main__.TestMolecule) ... ok
+test15_creerListMolecules (__main__.TestMolecule) ... ok
+test16_inverseDirMolecule1 (__main__.TestMolecule) ... ok
+test16_inverseDirMolecule2 (__main__.TestMolecule) ... ok
+test16_inverseDirMolecule3 (__main__.TestMolecule) ... ok
+test16_inverseDirMolecule4 (__main__.TestMolecule) ... ok
+test16_inverseDirMolecule5 (__main__.TestMolecule) ... ok
+test16_inverseDirMolecule6 (__main__.TestMolecule) ... ok
+test21_creerReservoir (__main__.TestReservoir) ... ok
+test22_colision (__main__.TestReservoir) ... ok
+test23_inverseDirMolecules (__main__.TestReservoir) ... ok
+test24_getTemperature (__main__.TestReservoir) ... ok
+test26_deplacerMolecules (__main__.TestReservoir) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.477s
+
+OK
